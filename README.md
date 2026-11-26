@@ -10,6 +10,10 @@ I create cross-platform mobile apps with **Flutter**.<br>
 I ship my projects in **Docker** with **GitHub Actions** CI/CD and deploy to **AWS** with **Terraform**.<br>
 My projects include e-commerce platforms, a delivery/logistics system, a video streaming service, a ride-hailing app, and real-time chat.
 
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frank-kavishe-6064b5246) [Frank Kavishe](https://www.linkedin.com/in/frank-kavishe-6064b5246)
+
 ## 💻 Tech Stack:
 
 **Languages**<br>
